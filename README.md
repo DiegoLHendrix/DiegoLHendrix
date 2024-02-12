@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diego Lopez</h1>
 <h3 align="center">Third year Computer Engineering Technology student at Rochester Institute of Technology</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/DiegoLHendrix?tab=projects](https://github.com/DiegoLHendrix?tab=projects)
+- 👨‍💻 All of my projects are available at [https://github.com/DiegoLHendrix?tab=repositories](https://github.com/DiegoLHendrix?tab=repositories)
 
 - 📫 How to reach me **DiegoLHendrix@gmail.com**
 
