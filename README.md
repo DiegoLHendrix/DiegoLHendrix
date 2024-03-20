@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diego Lopez</h1>
 <h3 align="center">Third year Computer Engineering Technology student at Rochester Institute of Technology</h3>
 
-- 🔭 I’m currently working on [project 1](https://github.com/users/DiegoLHendrix/projects/6)
+- 🔭 I’m currently working on a Discord bot
 
 - 👨‍💻 All of my projects are available at [https://github.com/DiegoLHendrix?tab=repositories](https://github.com/DiegoLHendrix?tab=repositories)
 
