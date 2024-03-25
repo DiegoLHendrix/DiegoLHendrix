@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my own [Website!](https://github.com/users/DiegoLHendrix/projects/6)
 
-- 👨‍💻 All of my projects are available at [https://github.com/DiegoLHendrix?tab=repositories](https://github.com/DiegoLHendrix?tab=repositories)
+- 👨‍💻 All of my projects are available [here.](https://github.com/DiegoLHendrix?tab=repositories)
 
 - 📫 How to reach me **DiegoLHendrix@gmail.com**
 
