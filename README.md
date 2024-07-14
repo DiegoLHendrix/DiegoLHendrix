@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diego Lopez</h1>
 <h3 align="center">Third year Computer Engineering Technology student at Rochester Institute of Technology</h3>
 
-- 🔭 I’m currently working on Microcontrollers
+- 🔭 I’m currently working on Real Time Operation Systems and Hardware Description Language.
 
 - 👨‍💻 All of my projects are available [here.](https://github.com/DiegoLHendrix?tab=repositories)
 
