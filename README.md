@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Real Time Operation Systems and Hardware Description Language.
 
-- 👨‍💻 All of my projects are available [here.](https://diegolopezportfolio.net)
+- 👨‍💻 All of my projects are available <a href="https://diegolopezportfolio.net" target="_blank" rel="noreferrer">here</a>.
 
 - 📫 How to reach me **DiegoLHendrix@gmail.com**
 
