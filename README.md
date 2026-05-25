@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diego Lopez</h1>
-<h3 align="center">Fourth year Computer Engineering Technology student at Rochester Institute of Technology</h3>
+<h3 align="center">Computer Engineering Technology alumnus from Rochester Institute of Technology</h3>
 
 - 🔭 I’m currently working on Real Time Operation Systems and Hardware Description Language.
 
